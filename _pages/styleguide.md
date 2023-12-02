@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Who We Are
-permalink: /styleguide/
+permalink: /Team/
 image: Theteam.jpg
 ---
 
