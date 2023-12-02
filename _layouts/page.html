@@ -30,25 +30,3 @@ layout: default
 	</div>
 </div>
 
-<div class="container">
-	<div class="row">
-	  <!-- begin page -->
-	  <article class="page col col-8 col-t-10 col-m-12">
-		<div class="page__content">
-		  {{ content }} <!-- This renders the content from the Markdown file -->
-		  {% if page.team_members %}
-			{% for member in page.team_members %}
-			  <div class="team-card">
-				<img src="{{ '/images/' | append: member.image | prepend: site.baseurl }}" alt="{{ member.name }}">
-				<h3>{{ member.name }}</h3>
-				<p>{{ member.position }}</p>
-				<p>{{ member.bio }}</p>
-			  </div>
-			{% endfor %}
-		  {% endif %}
-		</div>
-	  </article>
-	  <!-- end page -->
-	</div>
-  </div>
-  
