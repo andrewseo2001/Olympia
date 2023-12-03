@@ -29,7 +29,7 @@ We are a group of 5 Mechatronics engineering students who share the same passion
 
 <!-- Team Member 3 Card -->
 <div style="border: 1px solid #ececec; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px; padding: 16px; margin-bottom: 24px; text-align: center; background-color: white;">
-  <img src="{{ '/images/Ut.jpg' | prepend: site.baseurl }}" alt="Utkarsh" style="width: 120px; height: 120px; border-radius: 60px; margin-bottom: 16px;">
+  <img src="{{ '/images/ut.jpg' | prepend: site.baseurl }}" alt="Utkarsh" style="width: 120px; height: 120px; border-radius: 60px; margin-bottom: 16px;">
   <h3 style="margin: 8px 0;">Utkarsh Aiddasani</h3>
   <p style="font-size: 0.95em; color: #333; font-weight: bold;">Firmware Engineer</p>
   <p style="font-size: 0.9em; color: #666;">Utkarsh specializes in embedded systems and is leading the development of the software that will be run on our microcontroller. He works on all sensor interfacing, Bluetooth features, and operational logic for the required embedded components. </p>
@@ -37,7 +37,7 @@ We are a group of 5 Mechatronics engineering students who share the same passion
 
 <!-- Team Member 4 Card -->
 <div style="border: 1px solid #ececec; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px; padding: 16px; margin-bottom: 24px; text-align: center; background-color: white;">
-  <img src="{{ '/images/Alex.jpg' | prepend: site.baseurl }}" alt="Alexa" style="width: 120px; height: 120px; border-radius: 60px; margin-bottom: 16px;">
+  <img src="{{ '/images/alex.jpg' | prepend: site.baseurl }}" alt="Alexa" style="width: 120px; height: 120px; border-radius: 60px; margin-bottom: 16px;">
   <h3 style="margin: 8px 0;">Alexa Davidan</h3>
   <p style="font-size: 0.95em; color: #333; font-weight: bold;">Product Designer and Mechanical Lead</p>
   <p style="font-size: 0.9em; color: #666;">Alexa is a mechanical specialist and is responsible for designing our sensor suite housing and water bottle, procuring materials and supplies for manufacturing, and integrating all levels of hardware in the bottle. </p>
@@ -45,7 +45,7 @@ We are a group of 5 Mechatronics engineering students who share the same passion
 
 <!-- Team Member 4 Card -->
 <div style="border: 1px solid #ececec; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); border-radius: 8px; padding: 16px; margin-bottom: 24px; text-align: center; background-color: white;">
-  <img src="{{ '/images/Andr.jpg' | prepend: site.baseurl }}" alt="Alexa" style="width: 120px; height: 120px; border-radius: 60px; margin-bottom: 16px;">
+  <img src="{{ '/images/andr.jpg' | prepend: site.baseurl }}" alt="Andrew" style="width: 120px; height: 120px; border-radius: 60px; margin-bottom: 16px;">
   <h3 style="margin: 8px 0;">Andrew Seo</h3>
   <p style="font-size: 0.95em; color: #333; font-weight: bold;">Software Engineer</p>
   <p style="font-size: 0.9em; color: #666;">Andrew is the software lead for the features that will be available to the client through the mobile app. Andrew carries a large breadth of knowledge in multiple areas including with full-stack, mobile, and embedded software development. Andrew is responsible for leading the integration of cloud systems, developing the mobile application, and interfacing with the embedded Bluetooth transceivers.</p>
