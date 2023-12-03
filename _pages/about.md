@@ -2,25 +2,29 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
+image: hiking.png
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Research into the hydration habits among North Americans revealed that a significant 75% of adults fall short of the Centers for Disease Control and Prevention's recommended daily water intake of 2.5 to 3.5 liters. Particularly, individuals between 20 to 39 years old only average about 1.5 liters per day. A survey we conducted also revealed that only 17.6% of respondents drank more than 2 liters per day. These figures highlight a widespread challenge: chronic dehydration is a common yet under-addressed health issue. 
+
 
 ***
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+#### What are we doing about this?
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+To address this problem, our team has taken on the task of developing a smart water bottle that will encourage users to stay hydrated. We're focused on genuinely addressing the health needs of our users and contributing to better health outcomes for our society as a whole.
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+#### Advancing Technology for Hydration
+Embracing the latest in technology, our smart water bottle is more than just a container - it's a hydration companion. Equipped with sensors, it measures the amount of water consumed and the frequency of sips taken. This data is then wirelessly transmitted to the accompanying mobile app, allowing users to monitor their hydration in real-time and receive hydration alerts.
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+Our in app trainer will be sure to give you personalized recommendations and provide suggestions so you don't have to do any work.
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+#### User-Centric Design
+Understanding that individual needs vary, our bottle is designed to cater to a diverse user base. It comes in the perfect size and has an ergonomic design, making it convenient for people of all ages and lifestyles, whether they're athletes, busy professionals, or students. The bottle is also designed with a sleek, modern aesthetic, making it a stylish accessory as well as a health tool.
+
+
+#### Looking Ahead
+As we move forward, our team is dedicated to continuous improvement and innovation. We're already exploring the potential for integrating additional health-monitoring features into our smart water bottle, such as reminders to drink water, integration with other health apps, and even future capabilities like nutrient tracking. Our vision is to create a product that not only addresses the current hydration needs but also evolves with the advancing health and technology landscape.
+
+With this comprehensive approach, we're not just offering a product; we're fostering a movement towards a healthier, more hydrated society.
